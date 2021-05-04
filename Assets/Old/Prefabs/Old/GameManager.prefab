@@ -1,0 +1,447 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &671643920282110774
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7395389284888784635}
+  - component: {fileID: 6739681121943909945}
+  m_Layer: 0
+  m_Name: Player3
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 0
+--- !u!4 &7395389284888784635
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 671643920282110774}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 5956622749727470486}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &6739681121943909945
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 671643920282110774}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5a9290338eaefc646957ca5561dbcb8d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  charName: Kel'Vara
+  playerLevel: 5
+  currentEXP: 0
+  expToNextLevel: 
+  maxLevel: 100
+  baseEXP: 1000
+  currentHP: 115
+  maxHP: 115
+  currentFocus: 18
+  maxFocus: 18
+  currentStrength: 5
+  currentSpeed: 7
+  currentAgility: 7
+  currentDefense: 5
+  currentCrit: 10
+  maxStrength: 45
+  maxSpeed: 50
+  maxAgility: 50
+  maxDefense: 45
+  maxCrit: 60
+  attackPower: 0
+  magicPower: 0
+  magicDefense: 0
+  equipWeapon1: 
+  equipWeapon2: 
+  equipArmor: 
+  equipArtifact1: 
+  equipArtifact2: 
+  charImage: {fileID: 0}
+--- !u!1 &5956622748957077737
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5956622748957077738}
+  - component: {fileID: 5956622748957077739}
+  m_Layer: 0
+  m_Name: Kel'Vara
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5956622748957077738
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5956622748957077737}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 5956622749727470486}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &5956622748957077739
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5956622748957077737}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5a9290338eaefc646957ca5561dbcb8d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  charName: Kel'Vara
+  playerLevel: 5
+  currentEXP: 0
+  expToNextLevel: 
+  maxLevel: 100
+  baseEXP: 1000
+  currentHP: 100
+  maxHP: 115
+  currentFocus: 18
+  maxFocus: 18
+  currentStrength: 5
+  currentSpeed: 7
+  currentAgility: 7
+  currentDefense: 5
+  currentCrit: 10
+  maxStrength: 45
+  maxSpeed: 50
+  maxAgility: 50
+  maxDefense: 45
+  maxCrit: 60
+  attackPower: 0
+  magicPower: 0
+  magicDefense: 0
+  equipWeapon1: 
+  equipWeapon2: 
+  equipArmor: 
+  equipArtifact1: 
+  equipArtifact2: 
+  charImage: {fileID: 3591852144356932263, guid: c703f443d9377204ea5d90eb2eaab99d, type: 3}
+--- !u!1 &5956622749091211127
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5956622749091211129}
+  - component: {fileID: 5956622749091211128}
+  - component: {fileID: 1575762695}
+  - component: {fileID: 1577862698304556147}
+  m_Layer: 0
+  m_Name: Vraden
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5956622749091211129
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5956622749091211127}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 5956622749727470486}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &5956622749091211128
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5956622749091211127}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5a9290338eaefc646957ca5561dbcb8d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  charName: Vraden
+  playerLevel: 5
+  currentEXP: 0
+  expToNextLevel: 
+  maxLevel: 100
+  baseEXP: 1000
+  currentHP: 100
+  maxHP: 150
+  currentFocus: 15
+  maxFocus: 15
+  currentStrength: 15
+  currentSpeed: 5
+  currentAgility: 7
+  currentDefense: 5
+  currentCrit: 10
+  maxStrength: 100
+  maxSpeed: 45
+  maxAgility: 50
+  maxDefense: 45
+  maxCrit: 60
+  attackPower: 0
+  magicPower: 0
+  magicDefense: 0
+  equipWeapon1: Iron Sword
+  equipWeapon2: Iron Sword
+  equipArmor: 
+  equipArtifact1: 
+  equipArtifact2: 
+  charImage: {fileID: -3178373078081462881, guid: a88e04d69b52388408c9e6fc23d50c95, type: 3}
+--- !u!114 &1575762695
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5956622749091211127}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ea9374b509b70f4bba37e4a2ca8cf00, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  uniqueIdentifier: d5cba697-3aec-4408-907d-ddf798824c20
+--- !u!114 &1577862698304556147
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5956622749091211127}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ea9374b509b70f4bba37e4a2ca8cf00, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  uniqueIdentifier: 1048291a-055b-469f-b855-4a4f7b7f967e
+--- !u!1 &5956622749727470484
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5956622749727470486}
+  - component: {fileID: 5956622749727470485}
+  - component: {fileID: 2142791520}
+  m_Layer: 0
+  m_Name: GameManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5956622749727470486
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5956622749727470484}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 7.7844396, y: -3.067254, z: -0.6631279}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 5956622749091211129}
+  - {fileID: 5956622748957077738}
+  - {fileID: 7395389284888784635}
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &5956622749727470485
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5956622749727470484}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d93daa117f0791843a9edc80310fa65b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  playerStats:
+  - {fileID: 5956622749091211128}
+  - {fileID: 5956622748957077739}
+  - {fileID: 6739681121943909945}
+  gameMenuOpen: 0
+  dialogActive: 0
+  fadingBetweenScenes: 0
+  shopActive: 0
+  itemsHeld:
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - Apple
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - Pear
+  - 
+  - 
+  - 
+  - 
+  - 
+  - Melon
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  equipmentHeld:
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - Serrated Sword
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - Iron Sword
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - Frostshard
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - Pyrox
+  - 
+  numberOfItems: 000000000000000000000000000000000000000000000000050000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000200000000000000000000000000000000000000000000000200000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+  numberOfEquipment: 00000000000000000000000000000000000000000000000000000000000000000000000001000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000001000000000000000000000000000000000000000000000000000000000000000000000000000000000000000100000000000000
+  referenceItems:
+  - {fileID: 6434557522786949054, guid: a0bf6d00387ce68408d9fda344331a51, type: 3}
+  - {fileID: 8431785749322399004, guid: 0a227ab07a27fb7478c665c4c9c2f98b, type: 3}
+  - {fileID: 6953696816816167364, guid: 3157b036111088246b578cf7b867d44e, type: 3}
+  - {fileID: 5490297046625722022, guid: 0edc7fc9337ab42488d5cf166dcd4d3a, type: 3}
+  - {fileID: 3386550964061996266, guid: 10b9601f767159a4e8a2b68ee5f3a772, type: 3}
+  - {fileID: 36974244223336123, guid: ff7cd3869f1ff2e4abbac1ff386b23a3, type: 3}
+  - {fileID: 567595026722341574, guid: dd0009cdb86b15246944270c82a962c9, type: 3}
+  weapon1Sprite: {fileID: 0}
+  weapon2Sprite: {fileID: 0}
+  weapon1: {fileID: 0}
+  weapon2: {fileID: 0}
+  timePlayed: 0
+  currentGold: 100
+--- !u!114 &2142791520
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5956622749727470484}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1e3b9cead5eb02746a5ed66dfef032db, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  questMarkerNames:
+  - 
+  - Talk to Hin
+  - Find Kel'Vara
+  - quest test
+  - save the world
+  questMarkersComplete: 

@@ -1,0 +1,538 @@
+fileFormatVersion: 2
+guid: e743c7c6d14072e4bac9c3f5ab43311c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1535848079816877830
+    second: Raef_Sprite_Sheet_0
+  - first:
+      213: -3799029858578443754
+    second: Raef_Sprite_Sheet_1
+  - first:
+      213: 3184659201614487115
+    second: Raef_Sprite_Sheet_2
+  - first:
+      213: -6685026422270058034
+    second: Raef_Sprite_Sheet_3
+  - first:
+      213: 8268405902265210844
+    second: Raef_Sprite_Sheet_4
+  - first:
+      213: 2324344883311863845
+    second: Raef_Sprite_Sheet_5
+  - first:
+      213: 8382196549193044309
+    second: Raef_Sprite_Sheet_6
+  - first:
+      213: -9035561069653655708
+    second: Raef_Sprite_Sheet_7
+  - first:
+      213: -3525042643444113136
+    second: Raef_Sprite_Sheet_8
+  - first:
+      213: 1150243032815061780
+    second: Raef_Sprite_Sheet_9
+  - first:
+      213: 5546470371055626857
+    second: Raef_Sprite_Sheet_10
+  - first:
+      213: 440852797691242128
+    second: Raef_Sprite_Sheet_11
+  - first:
+      213: 4961465696368549171
+    second: Raef_Sprite_Sheet_12
+  - first:
+      213: 6384738112491449423
+    second: Raef_Sprite_Sheet_13
+  - first:
+      213: 2425089938809544609
+    second: Raef_Sprite_Sheet_14
+  - first:
+      213: 6728772188537845200
+    second: Raef_Sprite_Sheet_15
+  - first:
+      213: 7905609849387947215
+    second: Raef_Sprite_Sheet_16
+  - first:
+      213: -4791849386517778852
+    second: Raef_Sprite_Sheet_17
+  - first:
+      213: 8960511992799112836
+    second: Raef_Sprite_Sheet_18
+  - first:
+      213: -5168722100618956485
+    second: Raef_Sprite_Sheet_19
+  - first:
+      213: 196453498989351933
+    second: Raef_Sprite_Sheet_20
+  - first:
+      213: 6355703058649802796
+    second: Raef_Sprite_Sheet_21
+  - first:
+      213: -2333239534736897085
+    second: Raef_Sprite_Sheet_22
+  - first:
+      213: -2697984160331597547
+    second: Raef_Sprite_Sheet_23
+  - first:
+      213: 8503041355647077555
+    second: Raef_Sprite_Sheet_24
+  - first:
+      213: -5089284788632426122
+    second: Raef_Sprite_Sheet_25
+  - first:
+      213: -4456144456510816239
+    second: Raef_Sprite_Sheet_26
+  - first:
+      213: -7029642856174267002
+    second: Raef_Sprite_Sheet_27
+  - first:
+      213: 8900758992957616069
+    second: Raef_Sprite_Sheet_28
+  - first:
+      213: -1894646831037207139
+    second: Raef_Sprite_Sheet_29
+  - first:
+      213: 627973668247764297
+    second: Raef_Sprite_Sheet_30
+  - first:
+      213: 6003162808653596310
+    second: Raef_Sprite_Sheet_31
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 79
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Raef_Sprite_Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 228
+        width: 35
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af89c850f429faae0800000000000000
+      internalID: -1535848079816877830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raef_Sprite_Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 228
+        width: 35
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6125454c872274bc0800000000000000
+      internalID: -3799029858578443754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raef_Sprite_Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 228
+        width: 35
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4e19eabbae223c20800000000000000
+      internalID: 3184659201614487115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raef_Sprite_Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 228
+        width: 35
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec12e7243e30a33a0800000000000000
+      internalID: -6685026422270058034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raef_Sprite_Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 152
+        width: 35
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 011e86b6468841fc0800000000000000
+      internalID: -3525042643444113136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raef_Sprite_Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 152
+        width: 35
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41b4f40b1fb76ff00800000000000000
+      internalID: 1150243032815061780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raef_Sprite_Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 152
+        width: 35
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96aefff7a6509fc40800000000000000
+      internalID: 5546470371055626857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raef_Sprite_Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 152
+        width: 35
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 096af94a8493e1600800000000000000
+      internalID: 440852797691242128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raef_Sprite_Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 76
+        width: 35
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc41995b54e56bd60800000000000000
+      internalID: 7905609849387947215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raef_Sprite_Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 76
+        width: 35
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5e2f6b0f5eef7db0800000000000000
+      internalID: -4791849386517778852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raef_Sprite_Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 76
+        width: 35
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48e2b60ce222a5c70800000000000000
+      internalID: 8960511992799112836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raef_Sprite_Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 76
+        width: 35
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3175e172a20548b0800000000000000
+      internalID: -5168722100618956485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raef_Sprite_Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 35
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bcccc9df0fd00670800000000000000
+      internalID: 8503041355647077555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raef_Sprite_Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 0
+        width: 35
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 679e3cce27a3f59b0800000000000000
+      internalID: -5089284788632426122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raef_Sprite_Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 0
+        width: 35
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 110c8d9f9389822c0800000000000000
+      internalID: -4456144456510816239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raef_Sprite_Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 0
+        width: 35
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 685ded32111b17e90800000000000000
+      internalID: -7029642856174267002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,769 @@
+fileFormatVersion: 2
+guid: c703f443d9377204ea5d90eb2eaab99d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3591852144356932263
+    second: Kel_Sprite_Sheet_0
+  - first:
+      213: -181332809612886369
+    second: Kel_Sprite_Sheet_1
+  - first:
+      213: -5281667433695653291
+    second: Kel_Sprite_Sheet_2
+  - first:
+      213: -6875595482106266184
+    second: Kel_Sprite_Sheet_3
+  - first:
+      213: -2643795548613925987
+    second: Kel_Sprite_Sheet_4
+  - first:
+      213: 8208057836521997799
+    second: Kel_Sprite_Sheet_5
+  - first:
+      213: -3010248312845503440
+    second: Kel_Sprite_Sheet_6
+  - first:
+      213: -5208092661592577824
+    second: Kel_Sprite_Sheet_7
+  - first:
+      213: -2974584750713050317
+    second: Kel_Sprite_Sheet_8
+  - first:
+      213: -2721560156599909171
+    second: Kel_Sprite_Sheet_9
+  - first:
+      213: 7295424162243980908
+    second: Kel_Sprite_Sheet_10
+  - first:
+      213: -1267098628627200380
+    second: Kel_Sprite_Sheet_11
+  - first:
+      213: 5762071525621943947
+    second: Kel_Sprite_Sheet_12
+  - first:
+      213: 2242604956195375357
+    second: Kel_Sprite_Sheet_13
+  - first:
+      213: 8901793867224334334
+    second: Kel_Sprite_Sheet_14
+  - first:
+      213: -950759843884390380
+    second: Kel_Sprite_Sheet_15
+  - first:
+      213: 7485086320005334773
+    second: Kel_Sprite_Sheet_16
+  - first:
+      213: 2239462313452440478
+    second: Kel_Sprite_Sheet_17
+  - first:
+      213: 6365385021532560161
+    second: Kel_Sprite_Sheet_18
+  - first:
+      213: 3045588723246792034
+    second: Kel_Sprite_Sheet_19
+  - first:
+      213: 9055667797832690096
+    second: Kel_Sprite_Sheet_20
+  - first:
+      213: -6442571378237710718
+    second: Kel_Sprite_Sheet_21
+  - first:
+      213: 6717390199857031377
+    second: Kel_Sprite_Sheet_22
+  - first:
+      213: 7892429520372455659
+    second: Kel_Sprite_Sheet_23
+  - first:
+      213: -7077288704372186016
+    second: Kel_Sprite_Sheet_24
+  - first:
+      213: -6272270088317541705
+    second: Kel_Sprite_Sheet_25
+  - first:
+      213: 2585163235488917337
+    second: Kel_Sprite_Sheet_26
+  - first:
+      213: 6413221072504473709
+    second: Kel_Sprite_Sheet_27
+  - first:
+      213: 7206490388645022191
+    second: Kel_Sprite_Sheet_28
+  - first:
+      213: -5812203106858269394
+    second: Kel_Sprite_Sheet_29
+  - first:
+      213: 4084193587253584166
+    second: Kel_Sprite_Sheet_30
+  - first:
+      213: -7645933486388671788
+    second: Kel_Sprite_Sheet_31
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 79
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Kel_Sprite_Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 210
+        width: 34
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aabe1eae72d8d130800000000000000
+      internalID: 3591852144356932263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kel_Sprite_Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 210
+        width: 34
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9e76e835c6cb7df0800000000000000
+      internalID: -181332809612886369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kel_Sprite_Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 210
+        width: 34
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55252d8d37fb3b6b0800000000000000
+      internalID: -5281667433695653291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kel_Sprite_Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 210
+        width: 34
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bd76c5665af490a0800000000000000
+      internalID: -6875595482106266184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kel_Sprite_Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 210
+        width: 34
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d93ab1ab4f95f4bd0800000000000000
+      internalID: -2643795548613925987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kel_Sprite_Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 210
+        width: 34
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e541c93d11e8e170800000000000000
+      internalID: 8208057836521997799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kel_Sprite_Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 210
+        width: 34
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 034ff13cb137936d0800000000000000
+      internalID: -3010248312845503440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kel_Sprite_Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 210
+        width: 34
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e8a474615329b7b0800000000000000
+      internalID: -5208092661592577824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kel_Sprite_Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 140
+        width: 34
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33b6473ede628b6d0800000000000000
+      internalID: -2974584750713050317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kel_Sprite_Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 140
+        width: 34
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc4810ff4731b3ad0800000000000000
+      internalID: -2721560156599909171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kel_Sprite_Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 140
+        width: 34
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6eaa5c6f9d8e3560800000000000000
+      internalID: 7295424162243980908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kel_Sprite_Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 140
+        width: 34
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4868a49b28c5a6ee0800000000000000
+      internalID: -1267098628627200380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kel_Sprite_Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 140
+        width: 34
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8ec617168df6ff40800000000000000
+      internalID: 5762071525621943947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kel_Sprite_Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 140
+        width: 34
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df84e8963555f1f10800000000000000
+      internalID: 2242604956195375357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kel_Sprite_Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 140
+        width: 34
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eff38a7cb56898b70800000000000000
+      internalID: 8901793867224334334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kel_Sprite_Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 140
+        width: 34
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 418a09695f83ec2f0800000000000000
+      internalID: -950759843884390380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kel_Sprite_Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 70
+        width: 34
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f6cd01b95e50e760800000000000000
+      internalID: 7485086320005334773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kel_Sprite_Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 70
+        width: 34
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9b0531eb1b241f10800000000000000
+      internalID: 2239462313452440478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kel_Sprite_Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 70
+        width: 34
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12b5a0ba3f3665850800000000000000
+      internalID: 6365385021532560161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kel_Sprite_Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 70
+        width: 34
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26d7f0dbeca144a20800000000000000
+      internalID: 3045588723246792034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kel_Sprite_Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 70
+        width: 34
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b9e2c512e13cad70800000000000000
+      internalID: 9055667797832690096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kel_Sprite_Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 70
+        width: 34
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28eda0837736796a0800000000000000
+      internalID: -6442571378237710718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kel_Sprite_Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 34
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 064e203ab6b68cd90800000000000000
+      internalID: -7077288704372186016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kel_Sprite_Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 0
+        width: 34
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b2668a269b64f8a0800000000000000
+      internalID: -6272270088317541705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kel_Sprite_Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 0
+        width: 34
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95767b1144850e320800000000000000
+      internalID: 2585163235488917337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kel_Sprite_Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 0
+        width: 34
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d68cda43696500950800000000000000
+      internalID: 6413221072504473709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kel_Sprite_Sheet_31
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 0
+        width: 70
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4da0a87010034e590800000000000000
+      internalID: -7645933486388671788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,790 @@
+fileFormatVersion: 2
+guid: a88e04d69b52388408c9e6fc23d50c95
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3178373078081462881
+    second: Vraden_Sprite_Sheet_0
+  - first:
+      213: 1919558364616733585
+    second: Vraden_Sprite_Sheet_1
+  - first:
+      213: -5708120438501863148
+    second: Vraden_Sprite_Sheet_2
+  - first:
+      213: -1095261022616130418
+    second: Vraden_Sprite_Sheet_3
+  - first:
+      213: 7556816847084841602
+    second: Vraden_Sprite_Sheet_4
+  - first:
+      213: -5492968074010294200
+    second: Vraden_Sprite_Sheet_5
+  - first:
+      213: 2606673102647600418
+    second: Vraden_Sprite_Sheet_6
+  - first:
+      213: -3765909639089811645
+    second: Vraden_Sprite_Sheet_7
+  - first:
+      213: -7096855513571232556
+    second: Vraden_Sprite_Sheet_8
+  - first:
+      213: 8704187596186537838
+    second: Vraden_Sprite_Sheet_9
+  - first:
+      213: -2061843871318876733
+    second: Vraden_Sprite_Sheet_10
+  - first:
+      213: -8395135055671436435
+    second: Vraden_Sprite_Sheet_11
+  - first:
+      213: -7671318162296925062
+    second: Vraden_Sprite_Sheet_12
+  - first:
+      213: -4457605195526815458
+    second: Vraden_Sprite_Sheet_13
+  - first:
+      213: -2459785556395053076
+    second: Vraden_Sprite_Sheet_14
+  - first:
+      213: -1079616391988556738
+    second: Vraden_Sprite_Sheet_15
+  - first:
+      213: 1544701405845529502
+    second: Vraden_Sprite_Sheet_16
+  - first:
+      213: 1639795478351618690
+    second: Vraden_Sprite_Sheet_17
+  - first:
+      213: -624569936555535663
+    second: Vraden_Sprite_Sheet_18
+  - first:
+      213: -5926627091893104796
+    second: Vraden_Sprite_Sheet_19
+  - first:
+      213: -4501686028125084340
+    second: Vraden_Sprite_Sheet_20
+  - first:
+      213: 6268178154302003970
+    second: Vraden_Sprite_Sheet_21
+  - first:
+      213: 9123297931206524242
+    second: Vraden_Sprite_Sheet_22
+  - first:
+      213: -7182772836084281032
+    second: Vraden_Sprite_Sheet_23
+  - first:
+      213: -9072969830830850766
+    second: Vraden_Sprite_Sheet_24
+  - first:
+      213: -5912907238397383873
+    second: Vraden_Sprite_Sheet_25
+  - first:
+      213: -7279813235529971282
+    second: Vraden_Sprite_Sheet_26
+  - first:
+      213: -9192519190786802773
+    second: Vraden_Sprite_Sheet_27
+  - first:
+      213: 8093968899002553097
+    second: Vraden_Sprite_Sheet_28
+  - first:
+      213: -6540573975907948960
+    second: Vraden_Sprite_Sheet_29
+  - first:
+      213: -1944502525967017258
+    second: Vraden_Sprite_Sheet_30
+  - first:
+      213: -5374379450172627647
+    second: Vraden_Sprite_Sheet_31
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 79
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Vraden_Sprite_Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 237
+        width: 35
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9d1a45768624e3d0800000000000000
+      internalID: -3178373078081462881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vraden_Sprite_Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 237
+        width: 35
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1933c909924a3aa10800000000000000
+      internalID: 1919558364616733585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vraden_Sprite_Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 237
+        width: 35
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41113ff34bea8c0b0800000000000000
+      internalID: -5708120438501863148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vraden_Sprite_Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 237
+        width: 35
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8c62a227e9dcc0f0800000000000000
+      internalID: -1095261022616130418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vraden_Sprite_Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 237
+        width: 35
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28aed2b72e43fd860800000000000000
+      internalID: 7556816847084841602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vraden_Sprite_Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 237
+        width: 35
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8480e02c3ae05c3b0800000000000000
+      internalID: -5492968074010294200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vraden_Sprite_Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 237
+        width: 35
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22520e84063cc2420800000000000000
+      internalID: 2606673102647600418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vraden_Sprite_Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 237
+        width: 35
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34f05d9c22dccbbc0800000000000000
+      internalID: -3765909639089811645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vraden_Sprite_Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 158
+        width: 35
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d4705bd287e28d90800000000000000
+      internalID: -7096855513571232556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vraden_Sprite_Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 158
+        width: 35
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6f4f01808c7bc870800000000000000
+      internalID: 8704187596186537838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vraden_Sprite_Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 158
+        width: 35
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cdd8b35cebd263e0800000000000000
+      internalID: -2061843871318876733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vraden_Sprite_Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 158
+        width: 35
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6b564d652d7e7b80800000000000000
+      internalID: -8395135055671436435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vraden_Sprite_Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 158
+        width: 35
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a741a4996c00a8590800000000000000
+      internalID: -7671318162296925062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vraden_Sprite_Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 158
+        width: 35
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1140bb21b76322c0800000000000000
+      internalID: -4457605195526815458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vraden_Sprite_Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 158
+        width: 35
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cefaf67a1161dddd0800000000000000
+      internalID: -2459785556395053076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vraden_Sprite_Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 158
+        width: 35
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3c45dd8c9e6401f0800000000000000
+      internalID: -1079616391988556738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vraden_Sprite_Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 79
+        width: 35
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9328739eb1ef6510800000000000000
+      internalID: 1544701405845529502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vraden_Sprite_Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 79
+        width: 35
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 282a07fac49b1c610800000000000000
+      internalID: 1639795478351618690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vraden_Sprite_Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 79
+        width: 35
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d2183aa3f41557f0800000000000000
+      internalID: -624569936555535663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vraden_Sprite_Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 79
+        width: 35
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46f418f7f0460cda0800000000000000
+      internalID: -5926627091893104796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vraden_Sprite_Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 79
+        width: 35
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c45e34b886cc681c0800000000000000
+      internalID: -4501686028125084340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vraden_Sprite_Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 79
+        width: 35
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20bd80432da0df650800000000000000
+      internalID: 6268178154302003970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vraden_Sprite_Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 35
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23dbd7f6206561280800000000000000
+      internalID: -9072969830830850766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vraden_Sprite_Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 0
+        width: 35
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3bec71d13221fda0800000000000000
+      internalID: -5912907238397383873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vraden_Sprite_Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 0
+        width: 35
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea98c01be68e8fa90800000000000000
+      internalID: -7279813235529971282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vraden_Sprite_Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 0
+        width: 35
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: babf032008c9d6080800000000000000
+      internalID: -9192519190786802773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vraden_Sprite_Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 0
+        width: 35
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9035b1874dd835070800000000000000
+      internalID: 8093968899002553097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vraden_Sprite_Sheet_31
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 0
+        width: 42
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1452d406d5e5a65b0800000000000000
+      internalID: -5374379450172627647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,727 @@
+fileFormatVersion: 2
+guid: d8036d3f6cd4d33429ffa355db3d8347
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8689603272926110955
+    second: Merix_Sprite_Sheet_0
+  - first:
+      213: 7166256284992415308
+    second: Merix_Sprite_Sheet_1
+  - first:
+      213: 6165523791378371819
+    second: Merix_Sprite_Sheet_2
+  - first:
+      213: 4006358474281852285
+    second: Merix_Sprite_Sheet_3
+  - first:
+      213: -2066451708547322935
+    second: Merix_Sprite_Sheet_4
+  - first:
+      213: -4530054634379433682
+    second: Merix_Sprite_Sheet_5
+  - first:
+      213: -6718827569643877033
+    second: Merix_Sprite_Sheet_6
+  - first:
+      213: 8941151133643506174
+    second: Merix_Sprite_Sheet_7
+  - first:
+      213: 7153246547035176040
+    second: Merix_Sprite_Sheet_8
+  - first:
+      213: 7790202496323689168
+    second: Merix_Sprite_Sheet_9
+  - first:
+      213: -150899060527971815
+    second: Merix_Sprite_Sheet_10
+  - first:
+      213: -5209875073699112589
+    second: Merix_Sprite_Sheet_11
+  - first:
+      213: -1451618131683834569
+    second: Merix_Sprite_Sheet_12
+  - first:
+      213: -7346825879206809596
+    second: Merix_Sprite_Sheet_13
+  - first:
+      213: 5278890769483295368
+    second: Merix_Sprite_Sheet_14
+  - first:
+      213: -2340512285183664783
+    second: Merix_Sprite_Sheet_15
+  - first:
+      213: -5518049536583151296
+    second: Merix_Sprite_Sheet_16
+  - first:
+      213: 6868399422433662502
+    second: Merix_Sprite_Sheet_17
+  - first:
+      213: -3220114479612066673
+    second: Merix_Sprite_Sheet_18
+  - first:
+      213: 1026884549973511691
+    second: Merix_Sprite_Sheet_19
+  - first:
+      213: -8233746455336226635
+    second: Merix_Sprite_Sheet_20
+  - first:
+      213: 7732577809000875357
+    second: Merix_Sprite_Sheet_21
+  - first:
+      213: -9207038875760928647
+    second: Merix_Sprite_Sheet_22
+  - first:
+      213: -5336974534007092710
+    second: Merix_Sprite_Sheet_23
+  - first:
+      213: -2735617511122019146
+    second: Merix_Sprite_Sheet_24
+  - first:
+      213: -5122010679863231933
+    second: Merix_Sprite_Sheet_25
+  - first:
+      213: -7070570640240111935
+    second: Merix_Sprite_Sheet_26
+  - first:
+      213: -844467734152087440
+    second: Merix_Sprite_Sheet_27
+  - first:
+      213: -4995378226555715094
+    second: Merix_Sprite_Sheet_28
+  - first:
+      213: -4782357780430833900
+    second: Merix_Sprite_Sheet_29
+  - first:
+      213: -7523817680808284694
+    second: Merix_Sprite_Sheet_30
+  - first:
+      213: 4337055718558890563
+    second: Merix_Sprite_Sheet_31
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 79
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Merix_Sprite_Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 228
+        width: 35
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51bda2edcd3586780800000000000000
+      internalID: -8689603272926110955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Merix_Sprite_Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 228
+        width: 35
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c46226c6f18a37360800000000000000
+      internalID: 7166256284992415308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Merix_Sprite_Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 228
+        width: 35
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be4d35fc837509550800000000000000
+      internalID: 6165523791378371819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Merix_Sprite_Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 228
+        width: 35
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7d12764ec1799730800000000000000
+      internalID: 4006358474281852285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Merix_Sprite_Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 228
+        width: 35
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cba98e9e1d7253e0800000000000000
+      internalID: -2066451708547322935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Merix_Sprite_Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 228
+        width: 35
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e29a3b0bf430221c0800000000000000
+      internalID: -4530054634379433682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Merix_Sprite_Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 228
+        width: 35
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75d864c5cede1c2a0800000000000000
+      internalID: -6718827569643877033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Merix_Sprite_Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 228
+        width: 35
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef107e37599551c70800000000000000
+      internalID: 8941151133643506174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Merix_Sprite_Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 152
+        width: 35
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86c32d2c5df654360800000000000000
+      internalID: 7153246547035176040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Merix_Sprite_Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 152
+        width: 35
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0da1cb965eb5c1c60800000000000000
+      internalID: 7790202496323689168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Merix_Sprite_Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 152
+        width: 35
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9124a4c9a16e7edf0800000000000000
+      internalID: -150899060527971815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Merix_Sprite_Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 152
+        width: 35
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 379900c393ec2b7b0800000000000000
+      internalID: -5209875073699112589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Merix_Sprite_Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 152
+        width: 35
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 735087f0001dadbe0800000000000000
+      internalID: -1451618131683834569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Merix_Sprite_Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 152
+        width: 35
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4003b3bb9c4da0a90800000000000000
+      internalID: -7346825879206809596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Merix_Sprite_Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 152
+        width: 35
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88ae323af23624940800000000000000
+      internalID: 5278890769483295368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Merix_Sprite_Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 152
+        width: 35
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17d90392a74d48fd0800000000000000
+      internalID: -2340512285183664783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Merix_Sprite_Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 76
+        width: 35
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 041d3feae23fb63b0800000000000000
+      internalID: -5518049536583151296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Merix_Sprite_Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 76
+        width: 35
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62618a562e4715f50800000000000000
+      internalID: 6868399422433662502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Merix_Sprite_Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 76
+        width: 35
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8481a211fadf43d0800000000000000
+      internalID: -3220114479612066673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Merix_Sprite_Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 76
+        width: 35
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0e028abe0a304e00800000000000000
+      internalID: 1026884549973511691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Merix_Sprite_Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 35
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bcdb381e52290ad0800000000000000
+      internalID: -2735617511122019146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Merix_Sprite_Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 0
+        width: 35
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34abefa9c66fae8b0800000000000000
+      internalID: -5122010679863231933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Merix_Sprite_Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 0
+        width: 35
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ce8e25d67940ed90800000000000000
+      internalID: -7070570640240111935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Merix_Sprite_Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 0
+        width: 35
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 078f599e119d744f0800000000000000
+      internalID: -844467734152087440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Merix_Sprite_Sheet_31
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 0
+        width: 76
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34a77c38231503c30800000000000000
+      internalID: 4337055718558890563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

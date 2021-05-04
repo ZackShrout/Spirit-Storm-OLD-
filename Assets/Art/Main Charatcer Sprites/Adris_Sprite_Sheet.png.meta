@@ -1,0 +1,727 @@
+fileFormatVersion: 2
+guid: 22ba082b9bf49df4d894f5a06b0c06a8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8115525667637355186
+    second: Adris_Sprite_Sheet_0
+  - first:
+      213: 2274391242151609215
+    second: Adris_Sprite_Sheet_1
+  - first:
+      213: 565993784624773139
+    second: Adris_Sprite_Sheet_2
+  - first:
+      213: 5270438306925774553
+    second: Adris_Sprite_Sheet_3
+  - first:
+      213: 2069961220338412713
+    second: Adris_Sprite_Sheet_4
+  - first:
+      213: -7126151671701388029
+    second: Adris_Sprite_Sheet_5
+  - first:
+      213: 1772196235033324649
+    second: Adris_Sprite_Sheet_6
+  - first:
+      213: -4214397721643019352
+    second: Adris_Sprite_Sheet_7
+  - first:
+      213: -4245761778903896977
+    second: Adris_Sprite_Sheet_8
+  - first:
+      213: -5198825105997870024
+    second: Adris_Sprite_Sheet_9
+  - first:
+      213: 3426329033375334708
+    second: Adris_Sprite_Sheet_10
+  - first:
+      213: -1504609006825740479
+    second: Adris_Sprite_Sheet_11
+  - first:
+      213: -3611355088261259162
+    second: Adris_Sprite_Sheet_12
+  - first:
+      213: 4551578524041302256
+    second: Adris_Sprite_Sheet_13
+  - first:
+      213: -875189564789992644
+    second: Adris_Sprite_Sheet_14
+  - first:
+      213: -6741061058440363339
+    second: Adris_Sprite_Sheet_15
+  - first:
+      213: -898218912059858469
+    second: Adris_Sprite_Sheet_16
+  - first:
+      213: -5130142278143514457
+    second: Adris_Sprite_Sheet_17
+  - first:
+      213: -6126925176292966863
+    second: Adris_Sprite_Sheet_18
+  - first:
+      213: 6831928341770824639
+    second: Adris_Sprite_Sheet_19
+  - first:
+      213: 2147760186176447440
+    second: Adris_Sprite_Sheet_20
+  - first:
+      213: 2427701524190350280
+    second: Adris_Sprite_Sheet_21
+  - first:
+      213: 8022308851318419266
+    second: Adris_Sprite_Sheet_22
+  - first:
+      213: -5948717302949562675
+    second: Adris_Sprite_Sheet_23
+  - first:
+      213: -1812188757865354207
+    second: Adris_Sprite_Sheet_24
+  - first:
+      213: 5954711536993693792
+    second: Adris_Sprite_Sheet_25
+  - first:
+      213: 3656658647528047500
+    second: Adris_Sprite_Sheet_26
+  - first:
+      213: -7017207276922552058
+    second: Adris_Sprite_Sheet_27
+  - first:
+      213: -8741469204413357127
+    second: Adris_Sprite_Sheet_28
+  - first:
+      213: -6429611466748959266
+    second: Adris_Sprite_Sheet_29
+  - first:
+      213: -4555187834789955666
+    second: Adris_Sprite_Sheet_30
+  - first:
+      213: 2059242542899897947
+    second: Adris_Sprite_Sheet_31
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 79
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Adris_Sprite_Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 210
+        width: 34
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4d19e6376cdf5f80800000000000000
+      internalID: -8115525667637355186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adris_Sprite_Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 210
+        width: 34
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f73c4b4d8c2409f10800000000000000
+      internalID: 2274391242151609215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adris_Sprite_Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 210
+        width: 34
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31873ad2950dad700800000000000000
+      internalID: 565993784624773139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adris_Sprite_Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 210
+        width: 34
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d60ce657bb542940800000000000000
+      internalID: 5270438306925774553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adris_Sprite_Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 210
+        width: 34
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9acea1543caf9bc10800000000000000
+      internalID: 2069961220338412713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adris_Sprite_Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 210
+        width: 34
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 305cea08fc2da1d90800000000000000
+      internalID: -7126151671701388029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adris_Sprite_Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 210
+        width: 34
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96c2275161b189810800000000000000
+      internalID: 1772196235033324649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adris_Sprite_Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 210
+        width: 34
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a3904bd9937385c0800000000000000
+      internalID: -4214397721643019352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adris_Sprite_Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 140
+        width: 34
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6ca08738260415c0800000000000000
+      internalID: -4245761778903896977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adris_Sprite_Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 140
+        width: 34
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83c4d935c101ad7b0800000000000000
+      internalID: -5198825105997870024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adris_Sprite_Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 140
+        width: 34
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 431c1f53a14cc8f20800000000000000
+      internalID: 3426329033375334708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adris_Sprite_Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 140
+        width: 34
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1476c4e741e8e1be0800000000000000
+      internalID: -1504609006825740479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adris_Sprite_Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 140
+        width: 34
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66063665ea3e1edc0800000000000000
+      internalID: -3611355088261259162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adris_Sprite_Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 140
+        width: 34
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f057c46d847a2f30800000000000000
+      internalID: 4551578524041302256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adris_Sprite_Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 140
+        width: 34
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c33509f4ab3bad3f0800000000000000
+      internalID: -875189564789992644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adris_Sprite_Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 140
+        width: 34
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b2817adea0f272a0800000000000000
+      internalID: -6741061058440363339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adris_Sprite_Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 70
+        width: 34
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd1622098a2e883f0800000000000000
+      internalID: -898218912059858469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adris_Sprite_Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 70
+        width: 34
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a8ea0857c21ec8b0800000000000000
+      internalID: -5130142278143514457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adris_Sprite_Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 70
+        width: 34
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13ef8a5930ac8faa0800000000000000
+      internalID: -6126925176292966863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adris_Sprite_Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 70
+        width: 34
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbb6c2631a2efce50800000000000000
+      internalID: 6831928341770824639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adris_Sprite_Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 34
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12caa751defc9d6e0800000000000000
+      internalID: -1812188757865354207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adris_Sprite_Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 0
+        width: 34
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 060fd6ee79263a250800000000000000
+      internalID: 5954711536993693792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adris_Sprite_Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 0
+        width: 34
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8305c68aaf0fb230800000000000000
+      internalID: 3656658647528047500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adris_Sprite_Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 0
+        width: 34
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 601cebf092fdd9e90800000000000000
+      internalID: -7017207276922552058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adris_Sprite_Sheet_31
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 0
+        width: 70
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 27}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b56abe3be26e39c10800000000000000
+      internalID: 2059242542899897947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

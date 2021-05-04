@@ -1,0 +1,706 @@
+fileFormatVersion: 2
+guid: 5235be898010b834498267d2b016f519
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2588978483880165180
+    second: Ethras_Sprite_Sheet_0
+  - first:
+      213: 9081651266102763361
+    second: Ethras_Sprite_Sheet_1
+  - first:
+      213: -1697332425616459586
+    second: Ethras_Sprite_Sheet_2
+  - first:
+      213: -6558871167858785155
+    second: Ethras_Sprite_Sheet_3
+  - first:
+      213: 8919194124553299254
+    second: Ethras_Sprite_Sheet_4
+  - first:
+      213: 9095560367371712907
+    second: Ethras_Sprite_Sheet_5
+  - first:
+      213: -9155943704467174372
+    second: Ethras_Sprite_Sheet_6
+  - first:
+      213: 173421921690252185
+    second: Ethras_Sprite_Sheet_7
+  - first:
+      213: -6938747493764536581
+    second: Ethras_Sprite_Sheet_8
+  - first:
+      213: -313460424685594184
+    second: Ethras_Sprite_Sheet_9
+  - first:
+      213: 8960544126465370641
+    second: Ethras_Sprite_Sheet_10
+  - first:
+      213: -3952144140641164671
+    second: Ethras_Sprite_Sheet_11
+  - first:
+      213: -5728688133595554977
+    second: Ethras_Sprite_Sheet_12
+  - first:
+      213: 8234594641902199406
+    second: Ethras_Sprite_Sheet_13
+  - first:
+      213: -3805142964331024311
+    second: Ethras_Sprite_Sheet_14
+  - first:
+      213: 4215601994536632425
+    second: Ethras_Sprite_Sheet_15
+  - first:
+      213: 5898444290517893839
+    second: Ethras_Sprite_Sheet_16
+  - first:
+      213: -4498952269706754322
+    second: Ethras_Sprite_Sheet_17
+  - first:
+      213: -256743068016260148
+    second: Ethras_Sprite_Sheet_18
+  - first:
+      213: 6990567970548546992
+    second: Ethras_Sprite_Sheet_19
+  - first:
+      213: 7696023308213857372
+    second: Ethras_Sprite_Sheet_20
+  - first:
+      213: -851752381133062548
+    second: Ethras_Sprite_Sheet_21
+  - first:
+      213: -684924507680543998
+    second: Ethras_Sprite_Sheet_22
+  - first:
+      213: 2723289501774235844
+    second: Ethras_Sprite_Sheet_23
+  - first:
+      213: -4978739303651123667
+    second: Ethras_Sprite_Sheet_24
+  - first:
+      213: 1990833894076956704
+    second: Ethras_Sprite_Sheet_25
+  - first:
+      213: -8284877460580816714
+    second: Ethras_Sprite_Sheet_26
+  - first:
+      213: -5342890570957827574
+    second: Ethras_Sprite_Sheet_27
+  - first:
+      213: -5997867639042188651
+    second: Ethras_Sprite_Sheet_28
+  - first:
+      213: 3909968233650728000
+    second: Ethras_Sprite_Sheet_29
+  - first:
+      213: 1253051707571100844
+    second: Ethras_Sprite_Sheet_30
+  - first:
+      213: -6232951618584962114
+    second: Ethras_Sprite_Sheet_31
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 79
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Ethras_Sprite_Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 228
+        width: 35
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c0813139c9121cd0800000000000000
+      internalID: -2588978483880165180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ethras_Sprite_Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 228
+        width: 35
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16f180ab5b1880e70800000000000000
+      internalID: 9081651266102763361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ethras_Sprite_Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 228
+        width: 35
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb8f069d62dd178e0800000000000000
+      internalID: -1697332425616459586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ethras_Sprite_Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 228
+        width: 35
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d74c9385c653af4a0800000000000000
+      internalID: -6558871167858785155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ethras_Sprite_Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 228
+        width: 35
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63520c4ecc757cb70800000000000000
+      internalID: 8919194124553299254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ethras_Sprite_Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 228
+        width: 35
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b89ff4ab6fbe93e70800000000000000
+      internalID: 9095560367371712907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ethras_Sprite_Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 228
+        width: 35
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1c82c706bd8fe080800000000000000
+      internalID: -9155943704467174372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ethras_Sprite_Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 228
+        width: 35
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 993fc96a15e186200800000000000000
+      internalID: 173421921690252185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ethras_Sprite_Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 152
+        width: 35
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf66800eaed94bf90800000000000000
+      internalID: -6938747493764536581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ethras_Sprite_Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 152
+        width: 35
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b9d87f876d56abf0800000000000000
+      internalID: -313460424685594184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ethras_Sprite_Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 152
+        width: 35
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11a6e24786f3a5c70800000000000000
+      internalID: 8960544126465370641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ethras_Sprite_Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 152
+        width: 35
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18221fbe7d92729c0800000000000000
+      internalID: -3952144140641164671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ethras_Sprite_Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 152
+        width: 35
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5b9a009e7c9f70b0800000000000000
+      internalID: -5728688133595554977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ethras_Sprite_Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 152
+        width: 35
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e626ae3b238274270800000000000000
+      internalID: 8234594641902199406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ethras_Sprite_Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 152
+        width: 35
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 940f87b62aa613bc0800000000000000
+      internalID: -3805142964331024311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ethras_Sprite_Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 76
+        width: 35
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc200c7b4db7bd150800000000000000
+      internalID: 5898444290517893839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ethras_Sprite_Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 76
+        width: 35
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee601b64fb28091c0800000000000000
+      internalID: -4498952269706754322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ethras_Sprite_Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 76
+        width: 35
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccbc8583a8ddf6cf0800000000000000
+      internalID: -256743068016260148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ethras_Sprite_Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 76
+        width: 35
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bdf4c6188c730160800000000000000
+      internalID: 6990567970548546992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ethras_Sprite_Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 35
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2e59985bf6f7eab0800000000000000
+      internalID: -4978739303651123667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ethras_Sprite_Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 0
+        width: 35
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 020c347f0ecd0ab10800000000000000
+      internalID: 1990833894076956704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ethras_Sprite_Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 0
+        width: 35
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b8a07248d3360d80800000000000000
+      internalID: -8284877460580816714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ethras_Sprite_Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 0
+        width: 35
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a025644655d3ad5b0800000000000000
+      internalID: -5342890570957827574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ethras_Sprite_Sheet_31
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 0
+        width: 34
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebb1c08c68b1089a0800000000000000
+      internalID: -6232951618584962114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

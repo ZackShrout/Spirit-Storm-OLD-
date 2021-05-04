@@ -1,0 +1,197 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-9181161559326228536
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 43f2cdc32cd8141468f12a62164beed0, type: 3}
+  m_Name: 71435245-32f3-44b0-b0c6-4d366b6cc82e
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 0
+  speaker: Raef
+  text: Yeah, well... you snooze, you lose!
+  children: []
+  rect:
+    serializedVersion: 2
+    x: 494
+    y: 110
+    width: 200
+    height: 120
+  onEnterAction: 
+  onExitAction: 
+--- !u!114 &-8642679244761227117
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 43f2cdc32cd8141468f12a62164beed0, type: 3}
+  m_Name: 4199cb5c-6cbf-4f88-9d75-5441db265c29
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 0
+  speaker: Raef
+  text: You coming?
+  children:
+  - 3095e852-88d3-48b4-b45c-075641b7c503
+  - 43f726d5-becf-463f-a125-e9ffd0f0ff12
+  rect:
+    serializedVersion: 2
+    x: 0
+    y: 240
+    width: 200
+    height: 120
+  onEnterAction: TestRootEntry
+  onExitAction: 
+--- !u!114 &-1990911582635224198
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 43f2cdc32cd8141468f12a62164beed0, type: 3}
+  m_Name: 02e0eb28-f439-49cb-938f-bb55728d38d7
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 0
+  speaker: Raef
+  text: Suit yourself...
+  children: []
+  rect:
+    serializedVersion: 2
+    x: 496
+    y: 218
+    width: 200
+    height: 120
+  onEnterAction: 
+  onExitAction: 
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bcd06d031bebff24d9e1f535aa864574, type: 3}
+  m_Name: Test 1
+  m_EditorClassIdentifier: 
+  nodes:
+  - {fileID: -8642679244761227117}
+  - {fileID: 4692965683856499192}
+  - {fileID: 7179607683011570845}
+  - {fileID: 1861114327137829287}
+  - {fileID: -9181161559326228536}
+  - {fileID: -1990911582635224198}
+  - {fileID: 6229723015010958364}
+  newNodeOffset: {x: 250, y: 0}
+--- !u!114 &1861114327137829287
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 43f2cdc32cd8141468f12a62164beed0, type: 3}
+  m_Name: bc45eaa1-f2c8-4ded-846c-3098ef5b7584
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 0
+  speaker: Raef
+  text: Well, don't wait too long!
+  children: []
+  rect:
+    serializedVersion: 2
+    x: 500
+    y: 0
+    width: 200
+    height: 120
+  onEnterAction: 
+  onExitAction: 
+--- !u!114 &4692965683856499192
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 43f2cdc32cd8141468f12a62164beed0, type: 3}
+  m_Name: 3095e852-88d3-48b4-b45c-075641b7c503
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 1
+  speaker: Vraden
+  text: Yeah, yeah... don't rush me!
+  children:
+  - bc45eaa1-f2c8-4ded-846c-3098ef5b7584
+  - 71435245-32f3-44b0-b0c6-4d366b6cc82e
+  - 02e0eb28-f439-49cb-938f-bb55728d38d7
+  rect:
+    serializedVersion: 2
+    x: 244
+    y: 110
+    width: 200
+    height: 120
+  onEnterAction: 
+  onExitAction: 
+--- !u!114 &6229723015010958364
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 43f2cdc32cd8141468f12a62164beed0, type: 3}
+  m_Name: 00b742a8-0ef5-472d-b37c-24c374337472
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 0
+  speaker: Raef
+  text: To talk to Adris, of course!
+  children: []
+  rect:
+    serializedVersion: 2
+    x: 481
+    y: 350
+    width: 200
+    height: 120
+  onEnterAction: 
+  onExitAction: Leave
+--- !u!114 &7179607683011570845
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 43f2cdc32cd8141468f12a62164beed0, type: 3}
+  m_Name: 43f726d5-becf-463f-a125-e9ffd0f0ff12
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 1
+  speaker: Vraden
+  text: Where, again?
+  children:
+  - 00b742a8-0ef5-472d-b37c-24c374337472
+  rect:
+    serializedVersion: 2
+    x: 231
+    y: 350
+    width: 200
+    height: 120
+  onEnterAction: TestSelection
+  onExitAction: 

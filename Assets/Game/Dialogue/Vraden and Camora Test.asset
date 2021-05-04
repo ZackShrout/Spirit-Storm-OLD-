@@ -1,0 +1,208 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-7391913709665523476
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 43f2cdc32cd8141468f12a62164beed0, type: 3}
+  m_Name: e067970d-ce18-41ff-92bd-50aa837e018d
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 0
+  speaker: Camora
+  text: Naturally!
+  children:
+  - f7f9b94f-7a32-48aa-aea8-b60686d2c1e0
+  rect:
+    serializedVersion: 2
+    x: 437
+    y: 131
+    width: 200
+    height: 120
+--- !u!114 &-7339436892977542833
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 43f2cdc32cd8141468f12a62164beed0, type: 3}
+  m_Name: 336f65e0-89f5-4eb5-828f-a2a5235ba349
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 0
+  speaker: Camora
+  text: ...wait... why are you getting so close? Step back, dude!
+  children: []
+  rect:
+    serializedVersion: 2
+    x: 1511
+    y: 138
+    width: 200
+    height: 120
+--- !u!114 &-5349614773747597476
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 43f2cdc32cd8141468f12a62164beed0, type: 3}
+  m_Name: ed57fe72-8f74-41fb-9616-4aba213faa7f
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 1
+  speaker: Vraden
+  text: I'm a nice man.
+  children:
+  - 4a8dfa1a-1f44-4dbf-92fd-5b46af86508d
+  - 6511be84-0e65-4162-9495-778ae52981d1
+  rect:
+    serializedVersion: 2
+    x: 1081
+    y: 222
+    width: 200
+    height: 120
+--- !u!114 &-1874907962153942477
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 43f2cdc32cd8141468f12a62164beed0, type: 3}
+  m_Name: ce611cfb-8d0a-4ad8-9568-c64e5e7d86f2
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 1
+  speaker: Vraden
+  text: Scoundrel?! Scoundrel? I like the sound of that.
+  children:
+  - e067970d-ce18-41ff-92bd-50aa837e018d
+  rect:
+    serializedVersion: 2
+    x: 229
+    y: 215
+    width: 200
+    height: 120
+--- !u!114 &-1649916760957323777
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 43f2cdc32cd8141468f12a62164beed0, type: 3}
+  m_Name: 97e6fae4-b217-4314-ba90-8446659d8510
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 0
+  speaker: Camora
+  text: I happen to like nice men.
+  children:
+  - ed57fe72-8f74-41fb-9616-4aba213faa7f
+  rect:
+    serializedVersion: 2
+    x: 871
+    y: 137
+    width: 200
+    height: 120
+--- !u!114 &-1546223450062929799
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 43f2cdc32cd8141468f12a62164beed0, type: 3}
+  m_Name: 6511be84-0e65-4162-9495-778ae52981d1
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 0
+  speaker: Camora
+  text: No you're not, you're...
+  children:
+  - 336f65e0-89f5-4eb5-828f-a2a5235ba349
+  rect:
+    serializedVersion: 2
+    x: 1304
+    y: 140
+    width: 200
+    height: 120
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bcd06d031bebff24d9e1f535aa864574, type: 3}
+  m_Name: Vraden and Camora Test
+  m_EditorClassIdentifier: 
+  nodes:
+  - {fileID: 3739558117937309635}
+  - {fileID: -1874907962153942477}
+  - {fileID: -7391913709665523476}
+  - {fileID: 2075561603996883490}
+  - {fileID: -1649916760957323777}
+  - {fileID: -5349614773747597476}
+  - {fileID: -7339436892977542833}
+  - {fileID: -1546223450062929799}
+  newNodeOffset: {x: 250, y: 0}
+--- !u!114 &2075561603996883490
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 43f2cdc32cd8141468f12a62164beed0, type: 3}
+  m_Name: f7f9b94f-7a32-48aa-aea8-b60686d2c1e0
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 1
+  speaker: Vraden
+  text: You like me because I'm a scoundrel.
+  children:
+  - 97e6fae4-b217-4314-ba90-8446659d8510
+  rect:
+    serializedVersion: 2
+    x: 655
+    y: 217
+    width: 200
+    height: 120
+--- !u!114 &3739558117937309635
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 43f2cdc32cd8141468f12a62164beed0, type: 3}
+  m_Name: c50ee303-0e36-4a3d-98b3-a938b0778f50
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 0
+  speaker: Camora
+  text: Ugh... you're such a scoundrel!
+  children:
+  - ce611cfb-8d0a-4ad8-9568-c64e5e7d86f2
+  rect:
+    serializedVersion: 2
+    x: 11
+    y: 142
+    width: 200
+    height: 120

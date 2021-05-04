@@ -1,0 +1,748 @@
+fileFormatVersion: 2
+guid: 59e86b0c29a9a3246bdc46bc320e07c1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6543215446551977925
+    second: Camora_Sprite_Sheet_0
+  - first:
+      213: -8657580257205131903
+    second: Camora_Sprite_Sheet_1
+  - first:
+      213: 1884181027998570127
+    second: Camora_Sprite_Sheet_2
+  - first:
+      213: 3104418817801876261
+    second: Camora_Sprite_Sheet_3
+  - first:
+      213: -5466996803072114990
+    second: Camora_Sprite_Sheet_4
+  - first:
+      213: 3784063230378408069
+    second: Camora_Sprite_Sheet_5
+  - first:
+      213: -570503662420605998
+    second: Camora_Sprite_Sheet_6
+  - first:
+      213: 1594414269250206739
+    second: Camora_Sprite_Sheet_7
+  - first:
+      213: -5069171359995453440
+    second: Camora_Sprite_Sheet_8
+  - first:
+      213: -4691491312715847753
+    second: Camora_Sprite_Sheet_9
+  - first:
+      213: 6772413699638475322
+    second: Camora_Sprite_Sheet_10
+  - first:
+      213: 6637301596646766469
+    second: Camora_Sprite_Sheet_11
+  - first:
+      213: -4331321294091068221
+    second: Camora_Sprite_Sheet_12
+  - first:
+      213: -7713118908382799503
+    second: Camora_Sprite_Sheet_13
+  - first:
+      213: -6644194725451540059
+    second: Camora_Sprite_Sheet_14
+  - first:
+      213: -6001571381933402259
+    second: Camora_Sprite_Sheet_15
+  - first:
+      213: 6051423555313646742
+    second: Camora_Sprite_Sheet_16
+  - first:
+      213: 514686939230693746
+    second: Camora_Sprite_Sheet_17
+  - first:
+      213: -768060843383610579
+    second: Camora_Sprite_Sheet_18
+  - first:
+      213: 159947149534693163
+    second: Camora_Sprite_Sheet_19
+  - first:
+      213: -4614854164616845874
+    second: Camora_Sprite_Sheet_20
+  - first:
+      213: -3716920536678106021
+    second: Camora_Sprite_Sheet_21
+  - first:
+      213: -496328341833931781
+    second: Camora_Sprite_Sheet_22
+  - first:
+      213: 1045829121683463943
+    second: Camora_Sprite_Sheet_23
+  - first:
+      213: -3225013089911921018
+    second: Camora_Sprite_Sheet_24
+  - first:
+      213: -2669766959279057169
+    second: Camora_Sprite_Sheet_25
+  - first:
+      213: 4646032999221810862
+    second: Camora_Sprite_Sheet_26
+  - first:
+      213: 8010561446517309669
+    second: Camora_Sprite_Sheet_27
+  - first:
+      213: 6734865515308373956
+    second: Camora_Sprite_Sheet_28
+  - first:
+      213: -6532611975820707006
+    second: Camora_Sprite_Sheet_29
+  - first:
+      213: 7606659564223890667
+    second: Camora_Sprite_Sheet_30
+  - first:
+      213: 8334846527834465801
+    second: Camora_Sprite_Sheet_31
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 79
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Camora_Sprite_Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 210
+        width: 34
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cf549cf7cb2eca50800000000000000
+      internalID: 6543215446551977925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camora_Sprite_Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 210
+        width: 34
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1856ada30a81ad780800000000000000
+      internalID: -8657580257205131903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camora_Sprite_Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 210
+        width: 34
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f86926289a4f52a10800000000000000
+      internalID: 1884181027998570127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camora_Sprite_Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 210
+        width: 34
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5237e15877c151b20800000000000000
+      internalID: 3104418817801876261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camora_Sprite_Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 210
+        width: 34
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2deb0bc7f535124b0800000000000000
+      internalID: -5466996803072114990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camora_Sprite_Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 210
+        width: 34
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 588725e8571b38430800000000000000
+      internalID: 3784063230378408069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camora_Sprite_Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 210
+        width: 34
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d34c5211f92518f0800000000000000
+      internalID: -570503662420605998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camora_Sprite_Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 210
+        width: 34
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31cf87f845f702610800000000000000
+      internalID: 1594414269250206739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camora_Sprite_Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 140
+        width: 34
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00023e5718fa6a9b0800000000000000
+      internalID: -5069171359995453440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camora_Sprite_Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 140
+        width: 34
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b7adb6f18974eeb0800000000000000
+      internalID: -4691491312715847753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camora_Sprite_Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 140
+        width: 34
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3ab0f6c0627cfd50800000000000000
+      internalID: 6772413699638475322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camora_Sprite_Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 140
+        width: 34
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 587734fd2ae6c1c50800000000000000
+      internalID: 6637301596646766469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camora_Sprite_Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 140
+        width: 34
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ccdd993b3e04e3c0800000000000000
+      internalID: -4331321294091068221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camora_Sprite_Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 140
+        width: 34
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1799e7bf73f75f490800000000000000
+      internalID: -7713118908382799503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camora_Sprite_Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 140
+        width: 34
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a9dfe289141bc3a0800000000000000
+      internalID: -6644194725451540059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camora_Sprite_Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 140
+        width: 34
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6795b530a226bca0800000000000000
+      internalID: -6001571381933402259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camora_Sprite_Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 70
+        width: 34
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69cb6e769a9faf350800000000000000
+      internalID: 6051423555313646742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camora_Sprite_Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 70
+        width: 34
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 279e0675b09842700800000000000000
+      internalID: 514686939230693746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camora_Sprite_Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 70
+        width: 34
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d23ab387bbc4755f0800000000000000
+      internalID: -768060843383610579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camora_Sprite_Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 70
+        width: 34
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b270ad6c51f383200800000000000000
+      internalID: 159947149534693163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camora_Sprite_Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 70
+        width: 34
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec5e7cb769eb4ffb0800000000000000
+      internalID: -4614854164616845874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camora_Sprite_Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 34
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 686a0db7ea37e33d0800000000000000
+      internalID: -3225013089911921018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camora_Sprite_Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 0
+        width: 34
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe6d817781513fad0800000000000000
+      internalID: -2669766959279057169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camora_Sprite_Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 0
+        width: 34
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea6db55a5660a7040800000000000000
+      internalID: 4646032999221810862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camora_Sprite_Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 0
+        width: 34
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e08a1f913b3b2f60800000000000000
+      internalID: 8010561446517309669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camora_Sprite_Sheet_31
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 0
+        width: 70
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 906a8f4d1c25ba370800000000000000
+      internalID: 8334846527834465801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
