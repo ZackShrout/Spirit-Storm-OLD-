@@ -1,8 +1,5 @@
 ﻿using UnityEngine;
-using System.Collections;
-using SpiritStorm.Saving;
-using SpiritStorm.Resource;
-using SpiritStorm.Core;
+using SpiritStorm.Attributes;
 using SpiritStorm.Stats;
 
 namespace SpiritStorm.Combat

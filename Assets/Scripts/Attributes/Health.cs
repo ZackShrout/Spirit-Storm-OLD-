@@ -1,10 +1,8 @@
 ﻿using SpiritStorm.Saving;
 using SpiritStorm.Stats;
-using SpiritStorm.Core;
 using UnityEngine;
-using System;
 
-namespace SpiritStorm.Resource
+namespace SpiritStorm.Attributes
 {
     public class Health : MonoBehaviour, ISaveable
     {

@@ -9,7 +9,7 @@ namespace SpiritStorm.Movement
         [SerializeField] Rigidbody2D theRB;
         private Animator myAnim;
 
-        void Start()
+        private void Awake()
         {
             myAnim = GetComponent<Animator>();
         }
